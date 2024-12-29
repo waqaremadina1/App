@@ -1,0 +1,15 @@
+
+.addTodo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 127.93px);
+
+    .card {
+        max-width: 500px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        border: none;
+        outline: 0;
+
+    }
+}

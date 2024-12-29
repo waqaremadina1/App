@@ -1,0 +1,46 @@
+// .auth{
+//     max-width: 100%;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     height: 100vh;
+    
+        
+
+        
+// }
+// main{
+//     width: 100%;
+//     background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+// }
+// .auth{
+//     .card{
+//         max-width: 450px;
+//         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+//         border: none;
+//         outline: 0;
+
+//     }
+// }
+
+
+.auth{
+    background: #34e89e;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f3443, #34e89e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    min-height: 100vh;
+    padding: 60px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+main{
+    width: 100%;
+    background: #34e89e;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f3443, #34e89e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
